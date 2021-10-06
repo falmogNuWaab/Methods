@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\bin\Debug\netcoreapp3.1\MethodsClassCodeAlong.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\bin\Debug\netcoreapp3.1\MethodsClassCodeAlong.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\bin\Debug\netcoreapp3.1\MethodsClassCodeAlong.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\bin\Debug\netcoreapp3.1\MethodsClassCodeAlong.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\bin\Debug\netcoreapp3.1\MethodsClassCodeAlong.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\bin\Debug\netcoreapp3.1\MethodsClassCodeAlong.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\MethodsClassCodeAlong\MethodsClassCodeAlong\obj\Debug\netcoreapp3.1\MethodsClassCodeAlong.genruntimeconfig.cache
